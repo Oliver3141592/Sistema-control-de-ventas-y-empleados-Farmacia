@@ -39,6 +39,14 @@ Este sistema gestiona a tres tipos de usuarios (administrador, cajero, almacenis
 | 📄 PDF dinámico         | Generación de archivos PDF al registrar usuarios y para cortes de caja.                      |
 
 ---
+### 🟢 Inicio de sesión con CAPTCHA
+![Login](https://raw.githubusercontent.com/Oliver3141592/Sistema-control-de-ventas-y-empleados-Farmacia/main/capturas/Captura%20de%20pantalla%202025-08-03%20204425.png)
+
+
+
+
+
+
 
 ## 🛠️ Dependencias y configuración
 
