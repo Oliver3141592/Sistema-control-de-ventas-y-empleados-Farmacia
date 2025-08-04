@@ -42,10 +42,13 @@ Este sistema gestiona a tres tipos de usuarios (administrador, cajero, almacenis
 ### 🟢 Inicio de sesión con CAPTCHA
 ![Login](https://raw.githubusercontent.com/Oliver3141592/Sistema-control-de-ventas-y-empleados-Farmacia/main/capturas/Captura%20de%20pantalla%202025-08-03%20204425.png)
 
+aqui nos pide un usuario que esté registrado en la base de datos de usuarios (se incluye el captcha en el loggin)
 
 
+### 🟢 Menus disponibles para un acceso 3 (Administrador)
+![Login](https://raw.githubusercontent.com/Oliver3141592/Sistema-control-de-ventas-y-empleados-Farmacia/main/capturas/Captura%20de%20pantalla%202025-08-03%20204454.png)
 
-
+son los menus disponibles para un usuario con el maximo acceso (acceso 3, administrador)
 
 
 ## 🛠️ Dependencias y configuración
